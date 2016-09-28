@@ -1,4 +1,5 @@
 #pragma once
+#include"eigen.hpp"
 #include<boost/numpy.hpp>
 
 template<class T>
